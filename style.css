@@ -180,10 +180,6 @@ transition:0.3s;
 
   }
   
-  @media(max-width:100%){
-    .Equilibrium-img img{
-      max-width:100%
-    }
-  }
+  
 
   
