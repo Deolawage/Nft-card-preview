@@ -112,7 +112,7 @@ Javascript.
 
 - Github - [DEOLAWAGE](https://www.github.com/Deolawage)
 - Frontend Mentor - [@Deolawage](https://www.frontendmentor.io/profile/Deolawage)
-- Twitter - [@Delight](https://www.twitter.com/Delight)
+- Twitter - [@Deolawage](https://www.twitter.com/Deolawage)
 
 
 
